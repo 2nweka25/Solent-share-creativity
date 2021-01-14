@@ -1,0 +1,46 @@
+.border-class-1 {
+
+}
+.heart {
+  background-color: transparent;
+  height: 44px;
+  overflow-x: hidden;
+  position: relative;
+  width: 44px;
+}
+.lato-bold-oasis-18px {
+  color: var(--oasis);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-normal-abbey-18px {
+  color: var(--abbey);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.wendyone-normal-stack-14px {
+  color: var(--stack);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.wendyone-normal-white-20px {
+  color: var(--white);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --abbey: rgba(79,79,79,1.0);
+  --oasis: rgba(253,239,209,1.0);
+  --oasis-2: rgba(254,239,208,1.0);
+  --stack: rgba(138,138,138,1.0);
+  --white: rgba(255,255,255,1.0);
+  --white-2: rgba(255,255,255,0.8);
+}

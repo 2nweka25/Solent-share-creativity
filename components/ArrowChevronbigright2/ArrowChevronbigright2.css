@@ -1,0 +1,23 @@
+.arrow-chev-onbigright-c8Zezl {
+  background-color: transparent;
+  height: 37px;
+  left: 15px;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+.arrow-chev-onbigright-gtxLOf {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 51px;
+  margin-left: 0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 54px;
+}
+.arrow-chev-onbigright-gtxLOf:hover {
+
+transform: translate(5px, 0);
+}
